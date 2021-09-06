@@ -1,7 +1,6 @@
 
 <h1 align="start">
-    
-    <img src=".github/logo.png"> Reclamatec
+    <img width="49px" src=".github/logo.png"> Reclamatec
 </h1>
 
 <br>
