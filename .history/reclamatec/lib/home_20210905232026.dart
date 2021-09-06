@@ -12,7 +12,7 @@ class _NavState extends State<Nav> {
   int _selectedIndex = 0;
   List<Widget> _widgetOptions = <Widget>[
     Text("Escolha setor",style: TextStyle(color: Colors.white),),
-    Text('Acessar mensagem',style: TextStyle(color: Colors.white),),
+    Text('Acessar mensage',style: TextStyle(color: Colors.white),),
     Text('Configurações',style: TextStyle(color: Colors.white),),
   ];
 
