@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src=".github/" width="50%">
+  <img src=".github/smarts.jpg" width="70%">
 </p>
 
 
